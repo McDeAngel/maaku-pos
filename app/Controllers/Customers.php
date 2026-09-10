@@ -8,28 +8,28 @@ class Customers extends BaseController
     {
         $customers = [
             [
-                'full_name' => 'Iggy Aquino',
-                'email' => 'iggy.aquino@example.com',
+                'full_name' => 'Iggy Durana',
+                'email' => 'iggy.durana@example.com',
                 'phone' => '0917 100 2001',
             ],
             [
-                'full_name' => 'Julian Reyes',
-                'email' => 'julian.reyes@example.com',
+                'full_name' => 'Julian Gaspar',
+                'email' => 'julian.gaspar@example.com',
                 'phone' => '0917 100 2002',
             ],
             [
-                'full_name' => 'Virgilio Santos',
-                'email' => 'virgilio.santos@example.com',
+                'full_name' => 'Virgilio Marquez',
+                'email' => 'virgilio.marquez@example.com',
                 'phone' => '0917 100 2003',
             ],
             [
-                'full_name' => 'Joro Mendoza',
-                'email' => 'joro.mendoza@example.com',
+                'full_name' => 'Joro Soriano',
+                'email' => 'joro.soriano@example.com',
                 'phone' => '0917 100 2004',
             ],
             [
-                'full_name' => 'Harvy Cruz',
-                'email' => 'harvy.cruz@example.com',
+                'full_name' => 'Harvey Espenilla',
+                'email' => 'harvey.espenilla@example.com',
                 'phone' => '0917 100 2005',
             ],
         ];
