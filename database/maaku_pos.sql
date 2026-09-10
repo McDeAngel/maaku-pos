@@ -1,0 +1,3 @@
+-- Maaku POS - IT0049 TFA1
+-- This activity intentionally uses static PHP arrays and does not require a database.
+-- The SQL file is included only to document that no schema or data export is needed yet.
