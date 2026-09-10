@@ -13,8 +13,8 @@ class Users extends BaseController
                 'role' => 'Store Manager',
             ],
             [
-                'username' => 'tristna.carabacan',
-                'full_name' => 'Tristna Carabacan',
+                'username' => 'tristan.carabacan',
+                'full_name' => 'Tristan Carabacan',
                 'role' => 'Cashier',
             ],
             [
