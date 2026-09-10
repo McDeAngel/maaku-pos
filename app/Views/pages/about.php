@@ -14,8 +14,8 @@
             rainy skies, and the feeling of setting out on a new adventure.
         </p>
         <p>
-            This first version demonstrates the foundation of a CodeIgniter application: routes guide each
-            request, controllers prepare the data, and views present four connected pages.
+            For my first version, I demonstrated the foundations of a CodeIgniter application by using routes
+            to guide each request, controllers to prepare the data, and views to present four connected pages.
         </p>
     </article>
 
